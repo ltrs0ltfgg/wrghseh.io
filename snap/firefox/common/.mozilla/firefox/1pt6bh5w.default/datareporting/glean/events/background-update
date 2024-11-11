@@ -1,0 +1,6 @@
+{"timestamp":98657,"category":"nimbus_events","name":"enrollment","extra":{"branch":"control","glean_timestamp":"1731307636425","experiment":"extensions-migration-in-import-wizard-116-rollout","experiment_type":"rollout"}}
+{"timestamp":98796,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"add-an-image-to-pdf-with-alt-text-rollout","reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1731307636564"}}
+{"timestamp":98796,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"tab-hover-preview-release-rollout","feature":"tabPreview","glean_timestamp":"1731307636564","reason":"invalid-feature"}}
+{"timestamp":128028,"category":"nimbus_events","name":"unenrollment","extra":{"glean_timestamp":"1731307665796","experiment":"newtab-topic-labels","reason":"recipe-not-seen","branch":"control"}}
+{"timestamp":128028,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","glean_timestamp":"1731307665796"}}
+{"timestamp":128028,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"tabPreview","glean_timestamp":"1731307665796","experiment":"tab-hover-preview-release-rollout"}}

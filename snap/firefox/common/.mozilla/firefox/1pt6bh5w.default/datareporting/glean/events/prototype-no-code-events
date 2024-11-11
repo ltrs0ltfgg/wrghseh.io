@@ -1,0 +1,4 @@
+{"timestamp":969498,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{4f8f8f04-cabb-462d-919b-49e094709c34}","source":"content-context","widget_id":"context-copy","glean_timestamp":"1731308507265"},"execution_counter":2}
+{"timestamp":1155179,"category":"browser.usage","name":"interaction","extra":{"source":"content-context","flow_id":"{4f8f8f04-cabb-462d-919b-49e094709c34}","glean_timestamp":"1731308692947","widget_id":"context-copy"},"execution_counter":2}
+{"timestamp":1191131,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tabs-newtab-button","source":"tabs-bar","flow_id":"{4f8f8f04-cabb-462d-919b-49e094709c34}","glean_timestamp":"1731308728899"},"execution_counter":2}
+{"timestamp":1238204,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1731308775972","flow_id":"{4f8f8f04-cabb-462d-919b-49e094709c34}","source":"nav-bar","widget_id":"back-button"},"execution_counter":2}
